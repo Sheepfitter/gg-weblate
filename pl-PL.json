@@ -1,28 +1,22 @@
 {
-  "_comment_info": "SmartFormat variables: Use {Country.Name}, {Count}, etc. Add contextual selectors if needed for your target language.",
-
-  "ui.button.play": "Graj",
-  "ui.button.settings": "Ustawienia",
-  "ui.button.exit": "Wyjdź z gry",
-
-  "ui.assets_loading.text1": "/c[red]Szerzenie /cdpropagandy...",
-  "ui.assets_loading.text2": "Zwalczanie przeciwników politycznych...",
-  "ui.assets_loading.text3": "Planowanie przewrotu...",
-  "ui.assets_loading.text4": "Zakazywanie komunizmu...",
-  "ui.assets_loading.text5": "Ostateczne rozwiązywanie kwestii żydowskiej...",
-  "ui.assets_loading.text6": "Rujnowanie ekonomii...",
-  "ui.assets_loading.text7": "Fałszowanie wyborów...",
-  "ui.assets_loading.text8": "Składanie obietnic pokoju...",
-  "ui.assets_loading.text9": "Inwigilowanie obywateli...",
-
-  "event.war_declaration": "{Attacker.Name} {Attacker.Gender:select(M:wypowiedział|F:wypowiedziała|N:wypowiedziało|Pl:wypowiedziały)} wojnę {Defender.Name}!",
-  "_comment_war_declaration": "Attacker and Defender are Country objects containing 'Name' and 'Gender' (M, F, N, Pl).",
-
-  "game.unassigned_divisions": "Masz {Count} {Count:plural:nieprzypisaną dywizję|nieprzypisane dywizje|nieprzypisanych dywizji}.",
-  "_comment_unassigned_divisions": "Count is an integer. Use plural forms appropriate for your language.",
-
-  "game.status.days_left": "Pakt o nieagresji wygaśnie {Count:plural:za 1 dzień|za {Count} dni}!",
-
-  "diplomacy.opinion_status": "Relacje z {Country.Name}: {Score} ({Score:choose(0):Neutralne|>0:Przyjazne|<0:Agresywne}).",
-  "_comment_opinion_status": "Score is an integer representing diplomatic relations."
+    "_comment_info": "SmartFormat variables: Use {Country.Name}, {Count}, etc. Add contextual selectors if needed for your target language.",
+    "ui.button.play": "Graj",
+    "ui.button.settings": "Ustawienia",
+    "ui.button.exit": "Wyjdź z gry",
+    "ui.assets_loading.text1": "/c[red]Szerzenie /cdpropagandy...",
+    "ui.assets_loading.text2": "Zwalczanie przeciwników politycznych...",
+    "ui.assets_loading.text3": "Planowanie przewrotu...",
+    "ui.assets_loading.text4": "Zwalczanie komunizmu...",
+    "ui.assets_loading.text5": "Ostateczne rozwiązywanie kwestii żydowskiej...",
+    "ui.assets_loading.text6": "Rujnowanie ekonomii...",
+    "ui.assets_loading.text7": "Fałszowanie wyborów...",
+    "ui.assets_loading.text8": "Składanie obietnic pokoju...",
+    "ui.assets_loading.text9": "Inwigilowanie obywateli...",
+    "event.war_declaration": "{Attacker.Name} {Attacker.Gender:select(M:wypowiedział|F:wypowiedziała|N:wypowiedziało|Pl:wypowiedziały)} wojnę {Defender.Name}!",
+    "_comment_war_declaration": "Attacker and Defender are Country objects containing 'Name' and 'Gender' (M, F, N, Pl).",
+    "game.unassigned_divisions": "Masz {Count} {Count:plural:nieprzypisaną dywizję|nieprzypisane dywizje|nieprzypisanych dywizji}.",
+    "_comment_unassigned_divisions": "Count is an integer. Use plural forms appropriate for your language.",
+    "game.status.days_left": "Pakt o nieagresji wygaśnie {Count:plural:za 1 dzień|za {Count} dni}!",
+    "diplomacy.opinion_status": "Relacje z {Country.Name}: {Score} ({Score:choose(0):Neutralne|>0:Przyjazne|<0:Agresywne}).",
+    "_comment_opinion_status": "Score is an integer representing diplomatic relations."
 }
