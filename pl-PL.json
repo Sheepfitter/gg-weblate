@@ -25,6 +25,12 @@
       "load_game_button": "Wczytaj grę",
       "settings_button": "Ustawienia",
       "quit_button": "Wyjdź z gry"
+    },
+    "main_menu": {
+      "singleplayer_button": "Singleplayer",
+      "multiplayer_button": "Multiplayer",
+      "settings_button": "Ustawienia",
+      "quit_button": "Wyjdź z gry"
     }
   }
 }
