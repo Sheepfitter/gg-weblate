@@ -1,31 +1,25 @@
 {
-  "_comment_info": "SmartFormat variables: Use {Country.Name}, {Count}, etc. Add contextual selectors if needed for your target language.",
-
-  "ui.button.play": "Play",
-  "ui.button.settings": "Settings",
-  "ui.button.exit": "Exit Game",
-
-  "ui.assets_loading.text1": "Spreading propaganda...",
-  "ui.assets_loading.text2": "Killing political opponents...",
-  "ui.assets_loading.text3": "Planning a coup...",
-  "ui.assets_loading.text4": "Banning communism...",
-  "ui.assets_loading.text5": "Implementing Final Solution to the Jewish Question...",
-  "ui.assets_loading.text6": "Crashing the economy...",
-  "ui.assets_loading.text7": "Rigging the elections...",
-  "ui.assets_loading.text8": "Making peace promises...",
-  "ui.assets_loading.text9": "Spying on population...",
-
-  "event.war_declaration": "{Attacker.Name} has declared war on {Defender.Name}!",
-  "_comment_war_declaration": "Attacker and Defender are Country objects containing 'Name' and 'Gender' (M, F, N, Pl).",
-
-  "event.joined_alliance": "{Country.Name} has joined the alliance!",
-  "_comment_joined_alliance": "Country object contains 'Name' and 'Gender'.",
-
-  "game.unassigned_divisions": "You have {Count} unassigned {Count:plural:division|divisions}.",
-  "_comment_unassigned_divisions": "Count is an integer. Use plural forms appropriate for your language.",
-
-  "game.status.days_left": "{Count:plural:Only 1 day remains|{Count} days remain} until the truce expires.",
-
-  "diplomacy.opinion_status": "Relations with {Country.Name}: {Score} ({Score:choose(0):Neutral|>0:Friendly|<0:Hostile}).",
-  "_comment_opinion_status": "Score is an integer representing diplomatic relations."
+  "ui": {
+    "assets_loading": {
+      "text1": "/c[red]Spreading/cd propaganda",
+      "@text1": {
+        "description": "This is an example of using RichText in templates."
+      },
+      "text2": "Killing political opponents",
+      "text3": "Planning a coup",
+      "text4": "Banning communism",
+      "text5": "Implementing Final Solution to the Jewish Question",
+      "text6": "Crashing the economy",
+      "text7": "Rigging the elections",
+      "text8": "Making peace promises",
+      "text9": "Spying on population"
+    },
+    "escape_menu": {
+      "new_game_button": "New game",
+      "save_game_button": "Save game",
+      "load_game_button": "Load game",
+      "settings_button": "Settings",
+      "quit_button": "Quit"
+    }
+  }
 }
