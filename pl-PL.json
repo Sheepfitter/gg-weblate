@@ -1,18 +1,23 @@
 {
   "ui": {
     "assets_loading": {
-      "text1": "/c[red]Szerzenie/cd propagandy", 
-      "@text1": {
-        "description": "To jest przykład użycia RichText w template."
+      "top_panel": {
+        "text1": "/c[red]Szerzenie/cd propagandy",
+        "text2": "Zwalczanie przeciwników politycznych",
+        "text3": "Planowanie przewrotu",
+        "text4": "Zwalczanie komunizmu",
+        "text5": "Ostateczne rozwiązywanie kwestii żydowskiej",
+        "text6": "Rujnowanie gospodarki",
+        "text7": "Fałszowanie wyborów",
+        "text8": "Składanie obietnic pokoju",
+        "text9": "Inwigilowanie obywateli"
       },
-      "text2": "Zwalczanie przeciwników politycznych",
-      "text3": "Planowanie przewrotu",
-      "text4": "Zwalczanie komunizmu",
-      "text5": "Ostateczne rozwiązywanie kwestii żydowskiej",
-      "text6": "Rujnowanie gospodarki",
-      "text7": "Fałszowanie wyborów",
-      "text8": "Składanie obietnic pokoju",
-      "text9": "Inwigilowanie obywateli"
+      "bottom_panel": {
+        "text1": "Example text 1",
+        "text2": "Example text 2",
+        "text3": "Example text 3",
+        "text4": "Example text 4"
+      }
     },
     "escape_menu": {
       "new_game_button": "Nowa gra",
