@@ -1,4 +1,5 @@
 {
+  "_language": "pl-PL",
   "ui": {
     "assets_loading": {
       "top_panel": {
@@ -31,6 +32,13 @@
       "multiplayer_button": "Multiplayer",
       "settings_button": "Ustawienia",
       "quit_button": "Wyjdź z gry"
+    },
+    "settings_menu": {
+      "language_button": "Język",
+      "resolution_button": "Rozdzielczość",
+      "music_slider": "Muzyka",
+      "go_back_button": "< Wróć",
+      "confirm_button": "Zapisz"
     }
   }
 }

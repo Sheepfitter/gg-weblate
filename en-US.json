@@ -1,7 +1,8 @@
 {
+  "_language": "en-US",
   "ui": {
     "assets_loading": {
-      "top_panel":{
+      "top_panel": {
         "text1": "/c[red]Spreading/cd propaganda",
         "text2": "Killing political opponents",
         "text3": "Planning a coup",
@@ -12,7 +13,7 @@
         "text8": "Making peace promises",
         "text9": "Spying on population"
       },
-      "bottom_panel":{
+      "bottom_panel": {
         "text1": "Example text 1",
         "text2": "Example text 2",
         "text3": "Example text 3",
@@ -31,6 +32,13 @@
       "multiplayer_button": "Multiplayer",
       "settings_button": "Settings",
       "quit_button": "Quit"
+    },
+    "settings_menu": {
+      "language_button": "Language",
+      "resolution_button": "Resolution",
+      "music_slider": "Music",
+      "go_back_button": "< Go back",
+      "confirm_button": "Confirm"
     }
   }
 }
