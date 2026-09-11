@@ -34,7 +34,14 @@
       "career_profile_button": "PROFIL KARIERY",
       "friends_button": "ZNAJOMI",
       "credits_button": "TWÓRCY",
-      "quit_button": "WYJDŹ Z GRY"
+      "quit_button": "WYJDŹ Z GRY",
+      "singleplayer_menu": {
+        "continue_button": "KONTYNUUJ",
+        "new_game_button": "NOWA GRA",
+        "load_button": "WCZYTAJ",
+        "tutorial_button": "SAMOUCZEK",
+        "back_button": "WRÓĆ"
+      }
     },
     "settings_menu": {
       "language_button": "Język",

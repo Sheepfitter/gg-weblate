@@ -34,7 +34,14 @@
       "career_profile_button": "CAREER PROFILE",
       "friends_button": "FRIENDS",
       "credits_button": "CREDITS",
-      "quit_button": "QUIT"
+      "quit_button": "QUIT",
+      "singleplayer_menu": {
+        "continue_button": "CONTINUE",
+        "new_game_button": "NEW GAME",
+        "load_button": "LOAD",
+        "tutorial_button": "TUTORIAL",
+        "back_button": "BACK"
+      }
     },
     "settings_menu": {
       "language_button": "Language",
