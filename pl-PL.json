@@ -28,10 +28,13 @@
       "quit_button": "Wyjdź z gry"
     },
     "main_menu": {
-      "singleplayer_button": "Singleplayer",
-      "multiplayer_button": "Multiplayer",
-      "settings_button": "Ustawienia",
-      "quit_button": "Wyjdź z gry"
+      "singleplayer_button": "SINGLE PLAYER",
+      "multiplayer_button": "MULTIPLAYER",
+      "options_button": "OPCJE",
+      "career_profile_button": "PROFIL KARIERY",
+      "friends_button": "ZNAJOMI",
+      "credits_button": "TWÓRCY",
+      "quit_button": "WYJDŹ Z GRY"
     },
     "settings_menu": {
       "language_button": "Język",

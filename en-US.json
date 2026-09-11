@@ -28,10 +28,13 @@
       "quit_button": "Quit"
     },
     "main_menu": {
-      "singleplayer_button": "Singleplayer",
-      "multiplayer_button": "Multiplayer",
-      "settings_button": "Settings",
-      "quit_button": "Quit"
+      "singleplayer_button": "SINGLE PLAYER",
+      "multiplayer_button": "MULTIPLAYER",
+      "options_button": "OPTIONS",
+      "career_profile_button": "CAREER PROFILE",
+      "friends_button": "FRIENDS",
+      "credits_button": "CREDITS",
+      "quit_button": "QUIT"
     },
     "settings_menu": {
       "language_button": "Language",
